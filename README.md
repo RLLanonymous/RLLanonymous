@@ -1,9 +1,8 @@
-***﻿:cityscape:﻿ Learning SCP:SL Mapping And C#. :computer:﻿  ***
-﻿
-__﻿:wrench:﻿ Administrateur Sur One Zero:man_police_officer:﻿﻿__
-**discord.gg/vhEbWVzuqh  **
-__﻿:scales:﻿Modérateur Sur Omega Facility:man_police_officer:﻿﻿__
-**discord.gg/yaD4E2d23m**
+﻿-Learning SCP:SL Mapping And C#. 
+-Administrateur Sur One Zero
+discord.gg/vhEbWVzuqh
+-﻿Modérateur Sur Omega Facility
+discord.gg/yaD4E2d23m
 
 <!---
 RLLanonymous/RLLanonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
