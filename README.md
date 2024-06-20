@@ -16,7 +16,7 @@
 
 💬 Ask me about **Anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
 
-⚡ Other **Supervisor of the dev team of "Oméga Facility Developement"**
+⚡ Other **Supervisor of "Oméga Facility Developement"**
 
  </div>
 
