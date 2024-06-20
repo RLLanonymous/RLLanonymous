@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a SCP:SL Marketplace ; Discord.py Bot**
+ 🔭 I’m currently working on : **a SCP:SL Marketplace ; Discord.py Bot**
  
- 🌱 I’m currently learning **Python, Javascript, C#**
+ 🌱 I’m currently learning : **Python, Javascript, C#**
 
-💬 Ask me about **Anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
+💬 Ask me about : **Anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
 
-⚡ Other **Supervisor of "Oméga Facility Developement"**
+⚡ Other : **Supervisor of "Oméga Facility Developement"**
 
  </div>
 
