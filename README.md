@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on : **a SCP:SL Marketplace ; Discord.py Bot**
+ 🔭 I’m currently working on : **Nothing 😥**
  
  🌱 I’m currently learning : **Python, Javascript, C#**
 
