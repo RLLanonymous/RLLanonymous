@@ -43,7 +43,7 @@
 <h2 align="center"> 🖥 | Softwares </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,pycharm,unity,git,github,discord"/><br>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,unity,git,github,discord"/><br>
 </div>
 
 <h2 align="center"> 💡 | Languages </h2>
