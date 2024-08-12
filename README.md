@@ -49,7 +49,7 @@
 <h2 align="center"> 💡 | Languages </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,html,css"/><br>
 </div>
 
 <br/>
