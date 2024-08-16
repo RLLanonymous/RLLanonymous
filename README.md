@@ -65,7 +65,7 @@
 
 <h2 align="center">🌐 | Activity</h2>
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/807133944332025916" alt="">
+    <img src="https://lanyard.kyrie25.me/api/807133944332025916?decoration=false&amp;animationDuration=8s&amp;waveColor=#bcbcbc&amp;waveSpotifyColor=6aa84f&amp;imgStyle=square">
   </a>
 </div>
 
