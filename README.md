@@ -65,8 +65,6 @@
 
 <h2 align="center">🌐 | Activity</h2>
 <div align="center">
-  <a href="https://open.spotify.com/user/p7se86jf5s032om8c22r4xdax">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p7se86jf5s032om8c22r4xdax&count=5&unique=false" alt="Spotify recently played"  />
     <img src="https://lanyard.cnrad.dev/api/807133944332025916" alt="">
   </a>
 </div>
