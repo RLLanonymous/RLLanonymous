@@ -63,7 +63,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RLLanonymous&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<h2 align="center">🌐 | Activity</h2>
+<h2 align="center">🌐 | Discord Activity</h2>
 <div align="center">
     <img src="https://lanyard.kyrie25.me/api/807133944332025916?decoration=false&amp;animationDuration=8s&amp;waveColor=#bcbcbc&amp;waveSpotifyColor=6aa84f&amp;imgStyle=square">
   </a>
