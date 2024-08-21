@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on : **Nothing 😥**
  
- 🌱 I’m currently learning : **Python, Javascript, C#**
+ 🌱 I’m currently learning : **C#, .NET, Unity, Blender, Krita**
 
 💬 Ask me about : **Anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
 
