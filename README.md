@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on : **Nothing 😥**
  
- 🌱 I’m currently learning : **C#, .NET, Unity, Blender, Krita**
+ 🌱 I’m currently learning : **C#, .NET, Unity, Blender, KubeJS**
 
-💬 Ask me about : **Anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
+💬 Ask me about : **anything [here](https://github.com/RLLanonymous/RLLanonymous/issues)**
 
 🌐 Find me : **everywhere [here](https://rllanonymous.github.io/).**
 
