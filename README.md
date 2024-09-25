@@ -49,11 +49,11 @@
 <div align="center">
 
 
-  [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRLLanonymous&size=square&rounded=24)](https://github.com/RLLanonymous)
-  [![Oméga Studios](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FEspJyACXb4&subtitle=Om%C3%A9ga+Studios&size=square&rounded=24)](https://discord.gg/EspJyACXb4)
-  [![Contact me](https://bentos.jkominovic.dev/api/v1/bento-cards?url=ethanweirich31%40gmail.com&subtitle=Contact+me&size=square&rounded=24)](ethanweirich31@gmail.com)
+  [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRLLanonymous&size=square&rounded=10)](https://github.com/RLLanonymous)
+  [![Oméga Studios](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FEspJyACXb4&subtitle=Om%C3%A9ga+Studios&size=square&rounded=10)](https://discord.gg/EspJyACXb4)
+  [![Contact me](https://bentos.jkominovic.dev/api/v1/bento-cards?url=ethanweirich31%40gmail.com&subtitle=Contact+me&size=square&rounded=10)](ethanweirich31@gmail.com)
 
-  [![Oméga Studios Team Organization](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOmega-Studios-Team&subtitle=Om%C3%A9ga+Studios+Team+Organization&size=wide&rounded=24)](https://github.com/Omega-Studios-Team)
+  [![Oméga Studios Team Organization](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOmega-Studios-Team&subtitle=Om%C3%A9ga+Studios+Team+Organization&size=wide&rounded=10)](https://github.com/Omega-Studios-Team)
   
 </div>
 
@@ -86,5 +86,9 @@
 <h3 align="center">🌐 Discord</h3>
 
  <img src="https://lanyard.kyrie25.me/api/807133944332025916?waveColor=41b883&waveSpotifyColor=41b883&imgStyle=square">
+
+<h3 align="center">📖 LeetCode</h3>
+
+<img src="https://leetcard.jacoblin.cool/Lanonymous?theme=transparent&font=JetBrains%20Mono&ext=heatmap">
 
 </div>
