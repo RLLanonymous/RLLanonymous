@@ -56,7 +56,11 @@
   [![Oméga Studios Team Organization](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOmega-Studios-Team&subtitle=Om%C3%A9ga+Studios+Team+Organization&size=wide&rounded=10)](https://github.com/Omega-Studios-Team)
   
 </div>
-
+<div>
+<h3 align="center">☕ Donation/Shop</h3>
+<br>
+<a href='https://ko-fi.com/X8X414FQGF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+</div>
 <br>
 <h1 align="center">⚡️ Stats</h1>
 <br>
