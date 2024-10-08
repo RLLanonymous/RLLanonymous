@@ -38,8 +38,9 @@
   [![ Level: 💅](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudiocode&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudiocode&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)
   [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudio&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudio&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
   [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipycharm&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipycharm&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinotepadplusplus&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinotepadplusplus&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-
+  [![Level:👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRider&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRider&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)
+  [![Level:👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siWebstorm&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siWebstorm&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)
+  
 </div>
 
 <br>
