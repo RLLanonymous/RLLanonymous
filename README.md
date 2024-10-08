@@ -59,7 +59,9 @@
 <div>
 <h3 align="center">☕ Donation/Shop</h3>
 <br>
-<a href='https://ko-fi.com/X8X414FQGF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+    
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U114FQBO)
+
 </div>
 <br>
 <h1 align="center">⚡️ Stats</h1>
