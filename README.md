@@ -61,7 +61,7 @@
 <h3 align="center">☕ Donation/Shop</h3>
 <br>
     
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U114FQBO)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/insurgencyscp)
 
 </div>
 <br>
