@@ -7,11 +7,11 @@
 <div align="center">
 
 
-   **🔨 I’m currently working on : Clockwork Odyssey (Mc 1.19.2 Modpack)**
+   **🔨 I’m currently working on : SCP:SL Plugin Dev**
 
-   **🌱 I’m currently learning : Javascript, VueJS**
+   **🌱 I’m currently learning : C# / Exiled (ExMod Framework for SCP:SL)**
 
-   **📌 I'm the Owner of Oméga Studios**
+   **📌 I'm the Owner of Delta Insurgency NoRP**
 
    **✉️ Feel free to DM me or contact me if needed**
 
