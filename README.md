@@ -1,101 +1,68 @@
-<div align="align-center">
-    <img src="./assets/header.png">
+<h1 align="center">Hi 👋, I'm Lanonymous!</h1>
+<h3 align="center">A French dev passionate about SCP:SL.</h3>
+
+- 🔭 I’m currently working on **SCP:SL Plugins**
+
+- 🌱 I’m currently learning **Exiled Framework**
+
+- 🤝 I’m looking for help with **Exiled, C#**
+
+
+<h3 align="left">👨‍💻 Languages and Tools:</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
-<br>
-<h1 align="center">😎 About Me</h1>
-<div align="center">
+###
 
-
-   **🔨 I’m currently working on : SCP:SL Plugin Dev**
-
-   **🌱 I’m currently learning : C# / Exiled (ExMod Framework for SCP:SL)**
-
-   **📌 I'm the Owner of Delta Insurgency NoRP**
-
-   **✉️ Feel free to DM me or contact me if needed**
-
-<br>
-<h1 align="center">🚀 Skills</h1>
-<div align="center">
-
-  [![ Level: 💅](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sihtml5&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicss3&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![ Level: 🤏](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sijavascript&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)
-  [![ Level: 👎](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivuedotjs&subtitle=+Level%3A+%F0%9F%91%8E&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivuedotjs&subtitle=+Level%3A+%F0%9F%91%8E&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simarkdown&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=simarkdown&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipython&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![ Level: 🤏](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicsharp&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicsharp&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)
-  [![ Level: 🤏](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidotnet&subtitle=+Level%3A+%F0%9F%A4%8F&size=square&rounded=10)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<br>
-<h1 align="center">💻 IDE I Use</h1>
-<br>
-<div align="center">
-
-  [![ Level: 💅](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudiocode&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudiocode&subtitle=+Level%3A+%F0%9F%92%85&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudio&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivisualstudio&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![ Level: 👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipycharm&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipycharm&subtitle=+Level%3A+%F0%9F%91%8D&size=square&rounded=10)
-  [![Level:👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRider&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRider&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)
-  [![Level:👍](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siWebstorm&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siWebstorm&subtitle=Level%3A%F0%9F%91%8D&size=square&rounded=10)
-  
-</div>
-
-<br>
-<h1 align="center">🫂 Social</h1>
-<br>
+###
 
 <div align="center">
-
-
-  [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRLLanonymous&size=square&rounded=10)](https://github.com/RLLanonymous)
-  [![Oméga Studios](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FEspJyACXb4&subtitle=Om%C3%A9ga+Studios&size=square&rounded=10)](https://discord.gg/EspJyACXb4)
-  [![Contact me](https://bentos.jkominovic.dev/api/v1/bento-cards?url=ethanweirich31%40gmail.com&subtitle=Contact+me&size=square&rounded=10)](mailto:ethanweirich31@gmail.com)
-
-  [![Oméga Studios Team Organization](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOmega-Studios-Team&subtitle=Om%C3%A9ga+Studios+Team+Organization&size=wide&rounded=10)](https://github.com/Omega-Studios-Team)
-  
+    <h3>📊 Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=RLLanonymous&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RLLanonymous&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RLLanonymous&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RLLanonymous&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-<div>
-<h3 align="center">☕ Donation/Shop</h3>
-<br>
-    
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/insurgencyscp)
 
-</div>
-<br>
-<h1 align="center">⚡️ Stats</h1>
-<br>
+### 
 
 <div align="center">
+<h3>🏆 Trophy</h1>
+  <img src="https://github-profile-trophy.vercel.app?username=RLLanonymous&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
-<h3 align="center">🪄 My Streak</h3>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RLLanonymous&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<h3 align="center">⭐️ My Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RLLanonymous&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-
-<h3 align="center">💡 Most Used Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&layout=donut&theme=vue-dark" alt="GitHub Top Language" />
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RLLanonymous&radius=16&theme=vue&area=true&order=5&hide_border=false" alt="GitHub Graphs"/>
 
 <h3 align="center">🤪 Joke</h3>
 
-<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" >
+<img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" >
 
 <h3 align="center">🌐 Discord</h3>
 
  <img src="https://lanyard.kyrie25.me/api/807133944332025916?waveColor=41b883&waveSpotifyColor=41b883&imgStyle=square">
 
-<h3 align="center">📖 LeetCode</h3>
-
-<img src="https://leetcard.jacoblin.cool/Lanonymous?theme=transparent&font=JetBrains%20Mono&ext=heatmap">
-
-</div>
+ </div>
