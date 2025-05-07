@@ -22,13 +22,6 @@
 
 ```
 ```bash
-> whoami
-```
-```yml
-I'm a French developer passionate about SCP: Secret Laboratory. I use the EXILED framework with C# to create custom plugins.
-I'm also a Linux enthusiast and a gamer in my free time.
-```
-```bash
 > stats
 ```
 ```yml
