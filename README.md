@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Virtus Heaven<br>🤝 I’m looking for help with C#, Java & Next.js<br>🌱 I’m currently learning C#, Java & Next.js
+🔭 I’m currently working on Virtus Heaven<br>🤝 I’m looking for help with C#, Ts & Next.js<br>🌱 I’m currently learning C#, Ts & Next.js
 
 
 ## 🌐 Socials:
