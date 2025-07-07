@@ -1,24 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on Virtus Heaven<br>🤝 I’m looking for help with C#, Ts & Next.js<br>🌱 I’m currently learning C#, Ts & Next.js
+<h1 align="center">👋 Hello, I'm RLLanonymous</h1>
 
+<p align="center">
+  I build tools and games using modern languages, frameworks, and game engines.
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethanweirich31@gmail.com) 
+<h3 align="center">💻 Languages</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RLLanonymous&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RLLanonymous&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d06845f0-e9db-41b1-be2b-1eee8e589bbe" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/66830843-0b5d-43cc-bcdd-38d84aa2fea5" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/474a7dd1-e9f5-4e66-ac7e-7b6d276f4f22" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/5e8db28c-4e68-459b-bc66-80a0b4976877" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/3d1aaf8b-c1d8-4912-9ebb-82135b94c8bb" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/3ccef6be-dde3-40a7-9599-e0c23bc2f06a" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/45115e2a-9dfc-49e6-a5ad-0a291f1d0d72" style="vertical-align:top margin:6px 4px" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RLLanonymous&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="center">⚙️ Frameworks & Engines</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81355708-5980-4779-bfee-06a9e148aec7" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/99ed9245-2412-4840-9acc-1368d1fded4d" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/adedef21-67d1-4be0-9bf7-13cce9961800" style="vertical-align:top margin:6px 4px" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=RLLanonymous&icon=0&color=12)](https://visitcount.itsvg.in)
+<h3 align="center">🛠️ Tools / IDEs</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0a7a60f-2265-44a5-a704-04153ee0ef89" style="vertical-align:top margin:6px 4px" />
+  <img src="https://github.com/user-attachments/assets/c2a42059-abd1-461b-aa62-8af6e8992498" style="vertical-align:top margin:6px 4px" />
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&layout=donut&langs_count=15&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</p>
+
+<h3 align="center">🔗 Let's Connect</h3>
+
+<p align="center">
+  🚀 Open to cool ideas and collaborations!
+</p>
