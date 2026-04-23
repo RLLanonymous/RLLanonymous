@@ -1,49 +1,41 @@
-<h1 align="center">👋 Hello, I'm RLLanonymous</h1>
+<div align="center">
 
-<p align="center">
-  I build tools and games using modern languages, frameworks, and game engines.
-</p>
+```bash
+$ whoami && cat about.txt
+```
 
-<h3 align="center">💻 Languages</h3>
+# RLLanonymous
+*Passionate about history and video games, I mainly do HoI4 modding.*
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/474a7dd1-e9f5-4e66-ac7e-7b6d276f4f22" style="vertical-align:top margin:6px 4px" />
-  <img width="88" height="32" alt="C++" src="https://github.com/user-attachments/assets/c9af96f1-61c8-4f60-9289-333b624d14d0" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/3ccef6be-dde3-40a7-9599-e0c23bc2f06a" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/45115e2a-9dfc-49e6-a5ad-0a291f1d0d72" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/d06845f0-e9db-41b1-be2b-1eee8e589bbe" style="vertical-align:top margin:6px 4px" />
-</p>
+<br/>
 
+```bash
+$ ls tech/
+```
 
-<h3 align="center">⚙️ Frameworks & Engines</h3>
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81355708-5980-4779-bfee-06a9e148aec7" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/99ed9245-2412-4840-9acc-1368d1fded4d" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/23c4c03c-20a0-44b0-a885-41fde5443ee2" style="vertical-align:top margin:6px 4px" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-<h3 align="center">🛠️ Tools / IDEs</h3>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e0a7a60f-2265-44a5-a704-04153ee0ef89" style="vertical-align:top margin:6px 4px" />
-  <img width="151" height="33" alt="visualstudio" src="https://github.com/user-attachments/assets/937c7b60-6a89-4299-a10c-409d126c81b2" style="vertical-align:top margin:6px 4px" />
-  <img src="https://github.com/user-attachments/assets/c2a42059-abd1-461b-aa62-8af6e8992498" style="vertical-align:top margin:6px 4px" />
-</p>
+<br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+```bash
+$ git stats --year
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&layout=donut&langs_count=15&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
 
-</p>
-
-<h3 align="center">🔗 Let's Connect</h3>
-
-<p align="center">
-  🚀 Open to cool ideas and collaborations!
-</p>
+</div>
