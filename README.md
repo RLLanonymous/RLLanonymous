@@ -33,8 +33,8 @@ $ ls tech/
 $ git stats --year
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLLanonymous&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Stats](https://github-stats-extended.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
+![Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RLLanonymous&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 <br/>
 
