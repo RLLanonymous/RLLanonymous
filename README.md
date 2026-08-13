@@ -1,15 +1,6 @@
 <div align="center">
 
 ```bash
-$ whoami && cat about.txt
-```
-
-# RLLanonymous
-*Passionate about history and video games, I mainly do HoI4 modding.*
-
-<br/>
-
-```bash
 $ ls tech/
 ```
 
