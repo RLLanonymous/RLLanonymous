@@ -24,8 +24,10 @@ $ ls tech/
 $ git stats --year
 ```
 
-![Stats](https://github-stats-extended.vercel.app/api?username=RLLanonymous&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
-![Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RLLanonymous&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RLLanonymous&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=RLLanonymous&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RLLanonymous&hide_title=true&langs_count=10&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RLLanonymous&hide_title=true&langs_count=10&theme=github_dark)
+
+
 
 <br/>
 
