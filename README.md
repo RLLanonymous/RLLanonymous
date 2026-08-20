@@ -4,7 +4,7 @@
 $ ls tech/
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,ts,lua,nextjs,react,tailwind,vscode,visualstudio,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,lua,nextjs,react,tailwind,prisma,discordjs,vscode,visualstudio,rider)](https://skillicons.dev)
 
 <br/>
 
