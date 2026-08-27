@@ -10,7 +10,7 @@ $ ls tech/langages
 ```bash
 $ ls tech/frameworks
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discordjs,nextjs,react,tailwind,shadcn,prisma,postgres)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,nextjs,react,tailwind,shadcn,prisma,postgres)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
 
