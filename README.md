@@ -17,9 +17,14 @@ $ ls tech/frameworks
 ```bash
 $ ls tech/os-soft
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,docker,postman,linux,fedora,kde)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,rider,docker,postman,linux,fedora,kde)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
+
+```bash
+$ ls tech/learning
+```
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blazor,dotnet)](https://github.com/LelouchFR/skill-icons)
 
 ```bash
 $ git stats --year
