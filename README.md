@@ -3,14 +3,14 @@
 ```bash
 $ ls tech/langages
 ```
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts)](https://skillicons.dev)
 
 <br/>
 
 ```bash
-$ ls tech/frameworks
+$ ls tech/frameworks/libraries
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,nextjs,react,tailwind,shadcn,prisma,postgres)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,vite,svelte,tailwind,shadcn,drizzle,postgres)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
 
