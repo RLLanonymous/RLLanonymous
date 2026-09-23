@@ -3,7 +3,7 @@
 ```bash
 $ ls tech/langages
 ```
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <br/>
 
@@ -17,7 +17,7 @@ $ ls tech/frameworks/libraries
 ```bash
 $ ls tech/os-soft
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,rider,docker,postman,linux,fedora,kde)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,docker,postman,linux,arch,hyprland)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
 
