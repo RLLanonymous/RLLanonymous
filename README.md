@@ -10,14 +10,14 @@ $ ls tech/langages
 ```bash
 $ ls tech/frameworks/libraries
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,nextjs,react,tailwind,shadcn,prisma,postgres)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,adonis,react,tailwind,shadcn,postgres)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
 
 ```bash
 $ ls tech/os-soft
 ```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,docker,postman,linux,arch,hyprland)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,zed,docker,postman,linux,arch,hyprland)](https://github.com/LelouchFR/skill-icons)
 
 <br/>
 
