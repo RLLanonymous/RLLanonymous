@@ -1,32 +1,23 @@
+```php
+$aboutMe = [
+    'name'         => 'Lanonymous',
+    'role'         => 'Fullstack Web Dev',
+    'status'       => 'Working @Omega-Facility',
+    'location'     => 'France',
+    'stack'        => ['PHP 8.5', 'Laravel', 'PostgreSQL', 'Inertia.js', 'Svelte', 'Docker', 'Git'],
+    'editor'       => 'VSCodium',
+    'os'           => [
+        'archlinux' => 'main',
+        'windows11' => 'secondary',
+    ],
+    'spoken_languages' => ['fr_FR', 'en_US'],
+];
+```
 <div align="center">
 
-```bash
-$ ls tech/langages
-```
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RLLanonymous/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/807133944332025916)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanweirich31@gmail.com)
 
-<br/>
-
-```bash
-$ ls tech/frameworks/libraries
-```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs,adonis,react,tailwind,shadcn,postgres)](https://github.com/LelouchFR/skill-icons)
-
-<br/>
-
-```bash
-$ ls tech/os-soft
-```
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,vscodium,zed,docker,postman,linux,arch,hyprland)](https://github.com/LelouchFR/skill-icons)
-
-<br/>
-
-```bash
-$ git stats --year
-```
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RLLanonymous&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=RLLanonymous&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RLLanonymous&layout=donut-vertical&hide_title=true&langs_count=8&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RLLanonymous&layout=donut-vertical&hide_title=true&langs_count=8&theme=github_dark)
-
-<br/>
 
 </div>
