@@ -1,17 +1,32 @@
-```php
-$aboutMe = [
-    'name'         => 'Lanonymous',
-    'role'         => 'Fullstack Web Dev',
-    'status'       => 'Working @Omega-Facility',
-    'location'     => 'France',
-    'stack'        => ['PHP 8.5', 'Laravel', 'PostgreSQL', 'Inertia.js', 'Svelte', 'Docker', 'Git'],
-    'editor'       => 'VSCodium',
-    'os'           => [
-        'archlinux' => 'main',
-        'windows11' => 'secondary',
-    ],
-    'spoken_languages' => ['fr_FR', 'en_US'],
-];
+```cs
+var aboutMe = new
+{
+    Name = "Lanonymous",
+    Role = "Fullstack Web Dev",
+    Status = "Working @Omega-Facility",
+    Location = "France",
+    Stack = new[]
+    {
+        "C# 14",
+        ".NET Core",
+        "PostgreSQL",
+        "SvelteKit",
+        "Svelte",
+        "Docker",
+        "Git"
+    },
+    Editor = "Rider",
+    OS = new
+    {
+        ArchLinux = "main",
+        Windows11 = "secondary"
+    },
+    SpokenLanguages = new[]
+    {
+        "fr_FR",
+        "en_US"
+    }
+};
 ```
 <div align="center">
 
